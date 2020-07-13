@@ -6,21 +6,23 @@ Click through to any of the Week.md links for more detail.
 
 My Goals
 
-1. I can make anything
+1.
+I can make anything<br/>
+I can TDD anything<br/>
+I can program fluently<br/>
+I can debug anything<br/>
+I can model anything<br/>
+I can refactor anything<br/>
+I have a methodical approach to solving problems<br/>
 
-I can TDD anything
-I can program fluently
-I can debug anything
-I can model anything
-I can refactor anything
-I have a methodical approach to solving problems
-2. I'm equipped for long term growth
+2.
+I'm equipped for long term growth<br/>
+I manage my own wellbeing<br/>
+I can learn anything by myself<br/>
 
-I manage my own wellbeing
-I can learn anything by myself
-3. I help my teams succeed
-
-I use an agile product development process
-I write code that is easy to change
-I can justify the way I work
-I grow collaboratively
+3.
+I help my teams succeed<br/>
+I use an agile product development process<br/>
+I write code that is easy to change<br/>
+I can justify the way I work<br/>
+I grow collaboratively<br/>
