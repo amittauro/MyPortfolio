@@ -1,13 +1,13 @@
-* Complete git and terminal fundamental course - [x]
+* Complete git and terminal fundamental course
 
-* Common knowledge - [x]
+* Common knowledge
 
-* Basics of debugging - [x]
+* Basics of debugging
 
-* Complete clmystery challenge (terminal and git) - [x]
+* Complete clmystery challenge 
 https://github.com/amittauro/clmystery
 
-* Complete mastery-quizzes (see mastery-solutions folder) - [x]
+* Complete mastery-quizzes (see mastery-solutions folder)
 
 * Journal example (https://github.com/DanGyi23/MyPortfolio)
 
