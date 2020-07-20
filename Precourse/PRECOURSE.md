@@ -5,3 +5,5 @@ https://makersacademy.teachable.com/courses/enrolled/999164
 https://github.com/amittauro/clmystery
 
 * Complete mastery-quizzes (see mastery-solutions folder)
+
+* Journal example (https://github.com/DanGyi23/MyPortfolio)
