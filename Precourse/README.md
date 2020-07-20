@@ -1,9 +1,14 @@
-* Complete git and terminal fundamental course<br/>
-https://makersacademy.teachable.com/courses/enrolled/999164
+* Complete git and terminal fundamental course - [x]
 
-* Complete clmystery challenge (terminal and git)<br/>
+* Common knowledge - [x]
+
+* Basics of debugging - [x]
+
+* Complete clmystery challenge (terminal and git) - [x]
 https://github.com/amittauro/clmystery
 
-* Complete mastery-quizzes (see mastery-solutions folder)
+* Complete mastery-quizzes (see mastery-solutions folder) - [x]
 
 * Journal example (https://github.com/DanGyi23/MyPortfolio)
+
+* Work through a skills workshop (https://github.com/makersacademy/skills-workshops/tree/master/practicals/adventures/cipher-world)
