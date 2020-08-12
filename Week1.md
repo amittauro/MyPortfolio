@@ -3,6 +3,7 @@
 <h2>Goals</h2>
 
 <h3>Make</h3>
+
 - Explain and apply a test-driven development process to convert requirements into software
 
 <h3>Learn</h3>
